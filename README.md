@@ -17,7 +17,7 @@ This project is a work planner. It lets the user plan out their tasks for thie w
 ## Installation
 You can clone this repository if you would like to expand on this app but you dont really need to install anything if you want to use it. 
 
-Just go to the deployed site: 
+Just go to the deployed site: https://robmor1100.github.io/Roberts-work-day-planner/
 
 
 
