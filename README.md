@@ -1,8 +1,8 @@
-# Robert's Planer
+# Robert's Work Planer
 
 
 ## Description
-
+This project is a work planner. It lets the user plan out their tasks for thie workday to keep them organized and on track 
 
 
 
@@ -15,17 +15,19 @@
 
 
 ## Installation
+You can clone this repository if you would like to expand on this app but you dont really need to install anything if you want to use it. 
 
+Just go to the deployed site: 
 
 
 
 
 ## Usage
-
+Type in your tasks into the time blocks and click save to save them. and the wpp will keep track of time automatically.
 
 
 ## Roadmap
-
+In the future it would be cool if I could add like a countdown and alerts.
 
 
 
